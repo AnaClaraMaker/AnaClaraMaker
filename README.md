@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Typing SVG](https://readme-typing-svg.demolab.com/?color=870101&size=35&center=true&vCenter=true&width=1000&lines=Frontend+Developer;Java+Student;Future+Fullstack+Engineer)
 <!--
 **AnaClaraMaker/AnaClaraMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
