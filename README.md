@@ -1,6 +1,10 @@
 ## Hi there 👋
 ![Typing SVG](https://readme-typing-svg.demolab.com/?color=870101&size=35&center=true&vCenter=true&width=1000&lines=Frontend+Developer;Java+Student;Future+Fullstack+Engineer)
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=red)
 <!--
+
 **AnaClaraMaker/AnaClaraMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
