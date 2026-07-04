@@ -1,23 +1,27 @@
 
  <img src="https://raw.githubusercontent.com/Ahtisham-1214/Ahtisham-1214/snake/github-snake-dark.svg" width="100%"><br> 
+ 
+ <!--<p align="center" style="font-size: 20;">Hi, I'm Ana Clara👩‍💻</p>-->
+<h1 align="center"> Hi, I'm Ana Clara!</h1>
 
-# Hi, I’m Ana Clara 👩‍💻
 
 <p align="center">
-
 Junior Developer focused on learning and building real-world applications with clean architecture and scalable systems.  
 I enjoy turning ideas into code and improving a little every day.
-
 </p>
 
+<img src="line.gif" height="20" width="100%"/>
+<!--STACK-->
 
+
+<h1 align="center">My Current Stack! </h1>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,ts,js,nodejs,spring,mysql,docker,aws,github,vscode,postman,figma" />
 </p>
 
+<img src="line.gif" height="30" width="100%"/>
 
-
-
+<!--STATS-->
 <div align="center">
 
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AnaClaraMaker&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a">
@@ -30,11 +34,11 @@ I enjoy turning ideas into code and improving a little every day.
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnaClaraMaker&theme=omni" width="33%">
 
-  
 </div>
 
----
+<img src="line.gif" height="30" width="100%"/>
 
+<!--CURRENT FOCUS-->
 ## 🌸 Current Focus
 
 ```txt
