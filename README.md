@@ -24,7 +24,7 @@ I enjoy turning ideas into code and improving a little every day.
 <!--STATS-->
 <div align="center">
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AnaClaraMaker&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AnaClaraMaker&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a" width="33%">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaClaraMaker&theme=omni" width="33%">
 
