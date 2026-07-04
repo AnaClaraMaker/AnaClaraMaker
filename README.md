@@ -24,15 +24,15 @@ I enjoy turning ideas into code and improving a little every day.
 <!--STATS-->
 <div align="center">
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AnaClaraMaker&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a" width="33%">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnaClaraMaker&theme=omni" width="33%">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaClaraMaker&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a"> 
-  
+    
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnaClaraMaker&theme=omni" width="33%">
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AnaClaraMaker&theme=omni" width="33%">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnaClaraMaker&point=e8df7a&title_color=ff7ac7&bg_color=191622&line=ff7ac7&hide_border=true&area=true&area_color=e8df7a&color=e8df7a"> 
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AnaClaraMaker&theme=omni&hide_border=true&sideNums=e8df7a&fire=e8df7a&dates=e8df7a" height="50%" width="50%">
 
 </div>
 
