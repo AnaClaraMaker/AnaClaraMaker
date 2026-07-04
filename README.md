@@ -16,7 +16,7 @@ I enjoy turning ideas into code and improving a little every day.
 
 <h1 align="center">My Current Stack! </h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,ts,js,nodejs,spring,mysql,docker,aws,github,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=java,python,ts,js,nodejs,spring,mysql,docker,github,vscode,postman,figma,html,css,md" />
 </p>
 
 <img src="line.gif" height="30" width="100%"/>
